@@ -1,0 +1,2 @@
+data/classic_data.csv filter=lfs diff=lfs merge=lfs -text
+data/intent_data.csv filter=lfs diff=lfs merge=lfs -text
